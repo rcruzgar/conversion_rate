@@ -9,5 +9,3 @@
 4. [Propuesta Brainstorming - Ejercicio 2](https://github.com/rcruzgar/conversion_rate/blob/main/Respuesta_Ejercicio_2.pdf): Documento pdf con las propuestas para el Digital Signage.
 
 
-
-
